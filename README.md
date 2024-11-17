@@ -3,7 +3,7 @@ A atm machine which perform all the opertaion a real time machine does inadditio
 -Motivation
 This project was biult to test and make the use of the java concept and swing in massive way possible.The destop application was a concept will triggerd to crete this project.
 - Installation
-For the proper functioning of the program do have these jar file installed -
+    For the proper functioning of the program do have these jar file installe -
     calender jar -https://toedter.com/jcalendar/
     sql connectivity jar - https://dev.mysql.com/downloads/connector/j/
 -Tests
