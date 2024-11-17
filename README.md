@@ -3,7 +3,7 @@ A atm machine which perform all the opertaion a real time machine does inadditio
 -Motivation
 This project was built to test and make the use of the java concept and swing in massive way possible.The destop application was a concept will triggerd to crete this project.
 -Framework used
-Swings Java frameworks have been used to do the project.
+Swings Java frameworks and SQL have been used to do the project.
 
 - Installation
     For the proper functioning of the program do have these jar file installe -
